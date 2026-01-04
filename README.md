@@ -38,11 +38,8 @@ I'm a passionate developer with a strong interest in software development, open-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satish-yadav-ssy)
 [![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:your-email@example.com)
 
-## GitHub Stats
+-- ## GitHub Stats
 
-![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish-yadav01&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK1715&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tiwarinaman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
