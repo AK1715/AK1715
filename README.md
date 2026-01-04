@@ -42,7 +42,8 @@ I'm a passionate developer with a strong interest in software development, open-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/akshay-vishwakarma-b18a20304)
 [![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:your-email@example.com)
 
-<!-- ## GitHub Stats-->
+
+## GitHub Stats
 
 
 ## 🏆 GitHub Trophies
