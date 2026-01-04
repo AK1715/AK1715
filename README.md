@@ -4,7 +4,7 @@
 
 I'm a passionate developer with a strong interest in software development, open-source contributions, and always eager to learn new technologies. I thrive on challenges and aim to use my skills to create meaningful solutions.
 
-- 🔭 I’m currently working on growing [NPST](https://www.linkedin.com/company/npstx/mycompany/) organization
+- 🔭 I’m currently working on growing Magical Balloons Agency
 - 🌱 I’m currently learning [Springboot/Java]
 - 👯 I’m looking to collaborate on [Open Source Project]
 - 🤔 I’m looking for help with [Specific Issues/Projects]
@@ -38,4 +38,4 @@ I'm a passionate developer with a strong interest in software development, open-
 ---
 [![](https://visitcount.itsvg.in/api?id=tiwarinaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐️ From [Satish Yadav](https://github.com/Satish-yadav01)
+⭐️ From [Akshay Vishwakarma](https://github.com/Satish-yadav01)
