@@ -46,9 +46,6 @@ I'm a passionate developer with a strong interest in software development, open-
 <!-- ## GitHub Stats -->
 
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tiwarinaman&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
