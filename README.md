@@ -1,4 +1,4 @@
-#[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AK1715?cardType=github&theme=github-dark&fontFamily=Akatab&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AK1715?cardType=github&theme=github-dark&fontFamily=Akatab&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # Hi there, I'm Akshay Vishwakarma 👋
 
@@ -6,7 +6,7 @@
 
 I'm a passionate developer with a strong interest in software development, open-source contributions, and always eager to learn new technologies. I thrive on challenges and aim to use my skills to create meaningful solutions.
 
-- 🔭 I’m currently working on growing Magical Balloons Agency
+- 🔭 I’m currently working on growing Magical Balloons
 - 🌱 I’m currently learning [SpringBoot/Java]
 - 👯 I’m looking to collaborate on [Open Source Project]
 - 🤔 I’m looking for help with [Specific Issues/Projects]
