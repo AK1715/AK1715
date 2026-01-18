@@ -1,3 +1,5 @@
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AK715?cardType=github&theme=github-dark&fontFamily=&preferLogin=false&borderRadius=4)](https://git.io/awesome-stats-card)
+
 # Hi there, I'm Akshay Vishwakarma 👋
 
 ## About Me
