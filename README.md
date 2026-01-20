@@ -46,7 +46,7 @@ I'm a passionate developer with a strong interest in software development, open-
 
 
 <!-- ## GitHub Stats -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=AK1715=onedark)](https://github.com/AK1715/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=AK1715=onedark)](https://github.com/AK1715/github-profile-trophy)-->
 
 
 ### ✍️ Random Dev Quote
