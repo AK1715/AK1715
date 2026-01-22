@@ -43,9 +43,6 @@ I'm a passionate developer with a strong interest in software development, open-
 [![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:your-email@example.com)
 
 
-<!-- ## GitHub Stats -->
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=AK1715=onedark)](https://github.com/AK1715/github-profile-trophy)-->
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
